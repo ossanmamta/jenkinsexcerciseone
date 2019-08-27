@@ -15,7 +15,7 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-    <groupId>org.apache.maven.plugins</groupId>
+    <groupId>repo.maven.apache.org</groupId>
     <artifactId>maven-clean-plugin</artifactId>
     <version>3.1.2</version>
 </dependency>
