@@ -15,14 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <mirrors>
-    <mirror>
-      <id>centralmirror</id>
-      <name>Apache maven central mirror Spain</name>
-      <url>http://downloads.centralmirror.com/public/maven</url>
-      <mirrorOf>maven_central</mirrorOf>
-    </mirror>
-   </mirrors>
   <pluginGroups>
        <pluginGroup>repo.maven.apache.org</pluginGroup>
        <pluginGroup>maven</pluginGroup>   
