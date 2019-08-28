@@ -15,10 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <pluginGroups>
-       <pluginGroup>repo.maven.apache.org</pluginGroup>
-       <pluginGroup>maven</pluginGroup>   
-  </pluginGroups>
   <build>
     <plugins>
       <plugin>
